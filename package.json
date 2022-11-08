@@ -1,0 +1,16 @@
+{
+    "name": "framework-freertos-kernel",
+    "version": "0.0.1",
+    "description": "FreeRTOS-Kernel support for RP2040",
+    "keywords": [
+        "framework",
+        "rp2040",
+        "freertos"
+    ],
+    "homepage": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel"
+    },
+    "system": "*"
+}
