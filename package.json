@@ -12,5 +12,6 @@
         "type": "git",
         "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel"
     },
+    
     "system": "all"
 }
